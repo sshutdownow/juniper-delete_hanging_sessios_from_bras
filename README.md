@@ -3,7 +3,7 @@ On Juniper E-Series (E120, E320) some client's session hangs from time to time. 
 
 ### Requirements
 
-This scripts requires [Net::Telnet](http://search.cpan.org/~jrogers/Net-Telnet-3.04/lib/Net/Telnet.pm) module to work. I run it from cron on some Unix machine.
+This script requires [Net::Telnet](http://search.cpan.org/~jrogers/Net-Telnet-3.04/lib/Net/Telnet.pm) module to work. I run it from cron on some Unix machine.
 
 ### Copyright
 
